@@ -1,0 +1,50 @@
+[
+  {
+    "Title": "Nature Calm",
+    "Category": "Nature",
+    "ThumbnailUrl": "https://raw.githubusercontent.com/nguyenvanvinh208/FocusVTT-Data/main/nature_static.jpg.jpg",
+    "VideoUrl": ""
+  },
+  {
+    "Title": "Nature Live",
+    "Category": "Nature",
+    "ThumbnailUrl": "https://raw.githubusercontent.com/nguyenvanvinh208/FocusVTT-Data/main/nature_thumb.jpg",
+    "VideoUrl": "https://raw.githubusercontent.com/nguyenvanvinh208/FocusVTT-Data/main/nature_video.mp4"
+  },
+  {
+    "Title": "Anime View",
+    "Category": "Anime",
+    "ThumbnailUrl": "https://raw.githubusercontent.com/nguyenvanvinh208/FocusVTT-Data/main/anime_static.jpg",
+    "VideoUrl": ""
+  },
+  {
+    "Title": "Anime Live",
+    "Category": "Anime",
+    "ThumbnailUrl": "https://raw.githubusercontent.com/nguyenvanvinh208/FocusVTT-Data/main/anime_thumb.jpg",
+    "VideoUrl": "https://raw.githubusercontent.com/nguyenvanvinh208/FocusVTT-Data/main/anime_video.mp4"
+  },
+  {
+    "Title": "Chill Vibes",
+    "Category": "Chill",
+    "ThumbnailUrl": "https://raw.githubusercontent.com/nguyenvanvinh208/FocusVTT-Data/main/chill_static.jpg",
+    "VideoUrl": ""
+  },
+  {
+    "Title": "Chill Live",
+    "Category": "Chill",
+    "ThumbnailUrl": "https://raw.githubusercontent.com/nguyenvanvinh208/FocusVTT-Data/main/chill_thumb.png",
+    "VideoUrl": "https://raw.githubusercontent.com/nguyenvanvinh208/FocusVTT-Data/main/chill_video.mp4"
+  },
+  {
+    "Title": "Cute Pets",
+    "Category": "Pets",
+    "ThumbnailUrl": "https://raw.githubusercontent.com/nguyenvanvinh208/FocusVTT-Data/main/pets_static.jpg",
+    "VideoUrl": ""
+  },
+  {
+    "Title": "Pets Live",
+    "Category": "Pets",
+    "ThumbnailUrl": "https://raw.githubusercontent.com/nguyenvanvinh208/FocusVTT-Data/main/pets_thumb.png",
+    "VideoUrl": "https://raw.githubusercontent.com/nguyenvanvinh208/FocusVTT-Data/main/pets_video.mp4"
+  }
+]
